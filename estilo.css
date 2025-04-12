@@ -4,6 +4,81 @@
 }
 
 .paragrafo-secundario{
-    color:blueviolet;
+    color:rgb(255, 3, 95);
     font:x-large;
+}
+
+
+p{
+    color:sienna;
+}
+
+.pripar{
+    color:rgb(54, 54, 219)
+}
+
+#principal{
+    color:rgb(241, 1, 205);
+    font-size:32px;
+    text-align: center;
+}
+
+#idUm {
+    background: rgb(5, 220, 213);
+    font-size:10px;
+    text-align: center;
+    font-size:19px;
+    font-family:50px;
+    font-weight:50px;
+}
+#idDois {
+    background: rgb(31, 4, 239);
+    font-size:10px;
+    text-align: center;
+    font-size:19px;
+    font-family:100px;
+    font-weight:50px;
+}
+#idTres {
+    background: rgb(0, 242, 255);
+    font-size:10px;
+    text-align: center;
+    font-size:19px;
+    font-family:50px;
+    font-weight:50px;
+}
+
+#uM {
+    background-color: aquamarine;
+    width: 5000px;
+    height: 19px;
+    font-size:19px;
+}
+
+#doIs {
+    background-color:blueviolet;
+    width: 5000px;
+    height: 19px;
+    font-size:19px;
+
+}
+
+#tRes {
+    background-color: brown;
+    width: 5000px;
+    height: 19px;
+    font-size:19px;
+     
+}
+
+.botao-simples{
+    background-color:darkslategrey;
+    color:white;
+    padding: 10px 20px; /* espaçamento interto */
+    border-radius: 4px; /* cantos arredondados*/
+    font-size: 16px;
+}
+
+.botao-simples:hover {
+    background-color: crimson;
 }
